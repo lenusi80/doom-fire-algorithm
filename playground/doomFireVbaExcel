@@ -1,0 +1,4 @@
+Fogo Implementado em excel usando VBA.
+A versão 1 a renderização das celulas é feita via código, onde o efeito ficou bem lento.
+Na versão 2 foi usado o recurso de formatação condicional para as células e o valor contido na matriz de dados 
+é passado diretamente para o range de celulas. Com estas alterações, a performace do efeito aumento significativamente.
